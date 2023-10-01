@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FurkanAslan_Restoran.props" />
+</Project>

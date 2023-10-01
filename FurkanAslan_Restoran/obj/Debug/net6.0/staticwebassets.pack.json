@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FurkanAslan_Restoran.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FurkanAslan_Restoran.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\.DS_Store",
+      "PackagePath": "staticwebassets\\restaurant-main\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\.gitignore",
+      "PackagePath": "staticwebassets\\restaurant-main\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\LICENSE",
+      "PackagePath": "staticwebassets\\restaurant-main"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\main.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\restaurant-main\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\fonts\\ufonts.com_tw-cen-mt.ttf",
+      "PackagePath": "staticwebassets\\restaurant-main\\fonts\\ufonts.com_tw-cen-mt.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\.DS_Store",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-bg.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-1.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-2.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-3.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-4.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-5.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-6.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\blog\\blog-img-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\blog\\blog-img-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\cooker-img.png",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\cooker-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\logo.png",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\overlay-pattern.png",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\overlay-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\overlay-pattern2.png",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\overlay-pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\photo\\photo-1.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\photo\\photo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\photo\\photo-2.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\photo\\photo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\photo\\photo-3.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\photo\\photo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\photo\\photo-4.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\photo\\photo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\slider\\.DS_Store",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\slider\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\slider\\slider-img-1.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\slider\\slider-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\slider\\slider-img-2.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\slider\\slider-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\slider\\slider-img-3.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\slider\\slider-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\slider\\slider-img-4.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\slider\\slider-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\images\\subscribe-bg.jpg",
+      "PackagePath": "staticwebassets\\restaurant-main\\images\\subscribe-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\index.html",
+      "PackagePath": "staticwebassets\\restaurant-main\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\main.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\min\\main.min.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\min\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\vendor\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\vendor\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\vendor\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\vendor\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\restaurant-main\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\less\\main.less",
+      "PackagePath": "staticwebassets\\restaurant-main\\less\\main.less"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\less\\responsive.less",
+      "PackagePath": "staticwebassets\\restaurant-main\\less\\responsive.less"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\FurkanAslan_Restoran\\FurkanAslan_Restoran\\wwwroot\\restaurant-main\\readme.md",
+      "PackagePath": "staticwebassets\\restaurant-main\\readme.md"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FurkanAslan_Restoran.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FurkanAslan_Restoran.props",
+      "PackagePath": "build\\FurkanAslan_Restoran.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FurkanAslan_Restoran.props",
+      "PackagePath": "buildMultiTargeting\\FurkanAslan_Restoran.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FurkanAslan_Restoran.props",
+      "PackagePath": "buildTransitive\\FurkanAslan_Restoran.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

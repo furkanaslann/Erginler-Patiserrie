@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Giriş Yap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section id="sign-up-form">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="form-center block">
+					<h1 class="heading wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<span>Giriş Yap</span>
+					</h1>
+					<h3 class="title wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
+						Bilgilerinizi Giriniz
+						@*<span>Email Alerts</span>*@
+					</h3>
+					<form asp-action="AddRequest" asp-controller="Home">
+						<div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+							<input type="text" class="form-control"
+								   placeholder="Adınızı Soyadınızı Yazınız...">
+						</div>
+						<div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="800ms">
+							<input type="email" class="form-control" placeholder="Emailinizi Yazınız...">
+						</div>
+						<div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1000ms">
+							<input type="password" class="form-control" placeholder="Şifrenizi Yazınız...">
+							@*<textarea class="form-control" rows="3" placeholder="Write your message here..."></textarea>*@
+						</div>
+					</form>
+					<a class="btn btn-default wow bounceIn" data-wow-duration="500ms" data-wow-delay="1300ms"  asp-action="SignUpTrue"
+					   role="button">Giriş Yap</a>
+				</div>
+			</div><!-- .col-md-12 close -->
+		</div><!-- .row close -->
+	</div><!-- .container close -->
+</section>
